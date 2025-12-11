@@ -1,0 +1,6 @@
+site_status_json.status:
+  path: '/site/status/json'
+  defaults:
+    _controller: 'Drupal\site_status_json\Controller\SiteStatusJsonController::status'
+  requirements:
+    _permission: 'access content'
