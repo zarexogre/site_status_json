@@ -1,0 +1,7 @@
+{
+  "name": "zarexogre/site_status_json",
+  "type": "drupal-module",
+  "require": {
+    "php": ">=8.1"
+  }
+}
